@@ -13,7 +13,6 @@ namespace HundredeDagesLogen
         private string UriMoeder;
         private string UriPhotoAlbums;
         private string UriImages;
-        // private string UriHiResImage;
         private string UriVersion;
 
         private int PageSize = -1;
